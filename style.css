@@ -1,0 +1,27 @@
+body{ 
+    background-color: antiquewhite;
+    border: 5px;
+    padding: 5px;
+}
+
+.fieldset{
+    display: inline;
+    width: 300px;
+    height: 500px;
+    border-radius: 5px;
+}
+
+.legend{
+    padding: 7px;
+    color: aliceblue;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.header{
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+    display: center;
+    height: 80px;
+}
